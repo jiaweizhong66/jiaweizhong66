@@ -10,6 +10,8 @@ My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 </a>
 </p>
 
+## Tech Stack 🛠 
+
 
 ## How to find me 👀
 <!-- Actual text -->
