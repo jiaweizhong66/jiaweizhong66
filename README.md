@@ -3,7 +3,7 @@
 My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 
 
-## My Github ![image](https://user-images.githubusercontent.com/66694451/123669480-1f387b80-d80a-11eb-97be-73cc4015c52b.png)
+## My Github Stats 🤩
 <p align="left">
 <a href="https://github.com/jiaweizhong66">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jiaweizhong66&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@ My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 </p>
 
 
-## How to find me
+## How to find me 👀
 <!-- Actual text -->
 
 You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
@@ -23,4 +23,4 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 
 [1]: https://www.instagram.com/jiaweicalvinzhong/?hl=en
-[2]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://www.linkedin.com/in/jiawei-zhong/
