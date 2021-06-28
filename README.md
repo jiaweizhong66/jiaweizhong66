@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 
@@ -12,7 +12,7 @@ My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 
 
 ## How to find me
-!-- Actual text -->
+<!-- Actual text -->
 
 You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
