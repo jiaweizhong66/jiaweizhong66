@@ -3,7 +3,7 @@
 My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 
 
-## My Github
+## My Github ![image](https://user-images.githubusercontent.com/66694451/123669480-1f387b80-d80a-11eb-97be-73cc4015c52b.png)
 <p align="left">
 <a href="https://github.com/jiaweizhong66">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jiaweizhong66&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
