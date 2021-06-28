@@ -13,7 +13,7 @@ My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 ## Tech Stack 🛠 
 
 
-## How to find me 👀
+## Where to find me 👀
 <!-- Actual text -->
 
 You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
