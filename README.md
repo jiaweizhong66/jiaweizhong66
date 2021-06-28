@@ -11,7 +11,7 @@ My name is Calvin Zhong
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="left">
+<p align="middle">
 <a href="https://github.com/jiaweizhong66">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jiaweizhong66&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </a>
