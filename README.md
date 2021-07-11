@@ -11,7 +11,7 @@ My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 </p>
 
 ## Tech Stack 🛠 
-
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaweizhong66&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ## Where to find me 👀
 <!-- Actual text -->
