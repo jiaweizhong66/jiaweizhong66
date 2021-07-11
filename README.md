@@ -18,19 +18,9 @@ My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 
 
 
-<h3>Connect with Me 🤝🏻  </h3>
-
-<br>
-
-<p align="center">
-
-<a href="www.linkedin.com/in/jiawei-zhong"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-
-<a href="j42zhong@uwaterloo.ca"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
+## Connect with Me 🤝🏻 
+[![Twitter Badge](https://img.shields.io/badge/-@Neel_3056-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/Neel_3056) [![Linkedin Badge](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gorasiyaneel/)](https://www.linkedin.com/in/gorasiyaneel/) [![Gmail Badge](https://img.shields.io/badge/-mgorasiya1974@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:mgorasiya1974@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Neel-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/Neel/)](https://www.instagram.com/neelg._.3056/)
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=jiaweizhong66)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-<hr>
+
