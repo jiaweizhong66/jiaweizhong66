@@ -13,16 +13,4 @@ My name is Calvin Zhong, I am a 2A math student at University of Waterloo
 ## Tech Stack 🛠 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaweizhong66&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-## Where to find me 👀
-<!-- Actual text -->
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://clipart-library.com/clipart/Linkedin-Free-Download-PNG.htm
-<!-- Links to your social media accounts -->
-
-[1]: https://www.instagram.com/jiaweicalvinzhong/?hl=en
-[2]: https://www.linkedin.com/in/jiawei-zhong/
