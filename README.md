@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Calvin Zhong, I am a 4A stats student at University of Waterloo
+My name is Calvin Zhong, I am a 4A DS student at University of Waterloo
 
 
 ## My Github Stats 🤩
